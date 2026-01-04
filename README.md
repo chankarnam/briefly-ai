@@ -1,6 +1,6 @@
-# 🧠 BrieflyAI — Your Local AI Assistant for Meeting Summaries
+# BrieflyAI — Your Local AI Assistant for Meeting Summaries
 
-> ✨ From meeting chaos to clarity — in just a few seconds.
+>  From meeting chaos to clarity in just a few seconds.
 
 **BrieflyAI** is a lightweight AI-powered assistant that helps you extract clean, actionable summaries and task lists from your meeting transcripts. Built with privacy, speed, and flexibility in mind, it runs **locally** using **open-source LLMs** and integrates directly with **Google Drive** to fetch your meeting recordings or transcripts.
 
