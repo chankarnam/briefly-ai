@@ -47,7 +47,7 @@ git clone https://github.com/chankarnam/briefly-ai.git
 cd briefly-ai
 ```
 
-### 📦 2. Set Up Environment
+### 2. Set Up Environment
 
 Install dependencies:
 
